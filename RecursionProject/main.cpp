@@ -31,11 +31,11 @@ long fibonacci(long number)
     }
     
 //Recursive//
-//    if (number == 0 || number == 1) //base case
+//    if (number == 0 || number == 1)
 //    {
 //        return 1;
 //    }
-//    else //call
+//    else
 //    {
 //        return fibonacci(number - 1) + fibonacci(number - 2);
 //    }
